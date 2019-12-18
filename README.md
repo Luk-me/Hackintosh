@@ -12,11 +12,17 @@ Mac系统:macOS Mojave 10.14.6
 
 ## 硬件规格
 CPU:Intel i7-9750H
+
 显卡:RTX2060、UHD630
+
 内存:三星 DDR4 2666MHz 
+
 硬盘:INTEL SSDPEKNW010T8(1T)
+
 网卡:Intel Wireless-Ac 9560
+
 声卡:ALC1220
+
 
 ## 可工作:
 声卡
