@@ -49,4 +49,4 @@ USB
 睡眠唤醒黑屏
 
 
-[image-1]:	https://raw.githubusercontent.com/Lusky-Git/picture/master/Mac_Systeminfo.png?token=AMXC2CG5YSQRJ6YT4XHVLOK57IEWQ
+[image-1]:	https://raw.githubusercontent.com/Lusky-Git/Picture/master/Mac_Systeminfo.png
