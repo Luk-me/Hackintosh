@@ -5,6 +5,11 @@ XiaoMi Gameing 9
 
 这是一个EFI文件，适用于小米游戏本9代
 
+有些瑕疵,希望可以一起完善
+
+
+email:lu_sky@foxmail.com
+
 Mac系统:macOS Mojave 10.14.6
 
 ### 成品
